@@ -10,7 +10,7 @@
         scale="120 120 120"
         gps-entity-place="latitude: 42.8262959; longitude: -83.2889924;"
       ></a-text>
-      <a-camera gps-camera="maxDistance: 500" rotation-reader > </a-camera>
+      <a-camera gps-camera rotation-reader > </a-camera>
     </a-scene>
 </template>
 
